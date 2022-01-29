@@ -1,0 +1,10 @@
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\bin\Debug\DAL.dll.config
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\bin\Debug\DAL.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\bin\Debug\DAL.pdb
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\bin\Debug\EntityFramework.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\bin\Debug\EntityFramework.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\obj\Debug\DAL.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,42 @@
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\API Rest.dll.config
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\API Rest.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\API Rest.pdb
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\Antlr3.Runtime.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\BLL.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\ENT.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\EntityFramework.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\EntityFramework.SqlServer.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\Newtonsoft.Json.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Net.Http.Formatting.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Helpers.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Http.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Http.WebHost.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Mvc.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Optimization.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Razor.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.WebPages.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.WebPages.Razor.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\WebGrease.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\DAL.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\BLL.pdb
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\ENT.pdb
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\EntityFramework.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\EntityFramework.SqlServer.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\Newtonsoft.Json.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Net.Http.Formatting.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Helpers.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Http.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Http.WebHost.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Mvc.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Optimization.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.Razor.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.WebPages.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\System.Web.WebPages.Razor.xml
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\Antlr3.Runtime.pdb
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\bin\DAL.pdb
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\obj\Debug\API Rest.csprojResolveAssemblyReference.cache
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\obj\Debug\API Rest.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\API Rest\obj\Debug\API Rest.pdb

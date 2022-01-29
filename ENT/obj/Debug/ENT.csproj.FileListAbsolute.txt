@@ -1,0 +1,5 @@
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\ENT\bin\Debug\ENT.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\ENT\bin\Debug\ENT.pdb
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\ENT\obj\Debug\ENT.csprojResolveAssemblyReference.cache
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\ENT\obj\Debug\ENT.dll
+C:\Users\digis\Documents\Visual Studio 2013\Projects\Seguritas\ENT\obj\Debug\ENT.pdb
